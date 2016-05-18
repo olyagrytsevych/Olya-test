@@ -141,4 +141,17 @@
       </option>
     </Configuration>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://tools1.lsc.net/svn/f1000/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://tools1.lsc.net/svn/f1000/trunk/" />
+        <option value="svn://tools1.lsc.net/svn/f1000/trunk/acceptance-tests" />
+      </list>
+    </option>
+  </component>
 </application>
