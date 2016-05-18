@@ -145,7 +145,6 @@
     <option name="myCheckoutURLs">
       <list>
         <option value="svn://tools1.lsc.net/svn/" />
-        <option value="svn://tools1.lsc.net/svn" />
       </list>
     </option>
     <option name="myTypedURLs">
