@@ -1,0 +1,9 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SEARCH_SCOPE">
+      <SearchScope scope-name="Project Files">
+        <moduleName>f1000workspace-features</moduleName>
+      </SearchScope>
+    </option>
+  </component>
+</application>
